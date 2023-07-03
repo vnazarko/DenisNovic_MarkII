@@ -1,0 +1,22 @@
+{
+  "name": "denisnovic-markii",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "vue": "^3.2.47",
+    "wow.js": "^1.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.60.0",
+    "sass-loader": "^10.4.1",
+    "vite": "^4.1.4"
+  }
+}
